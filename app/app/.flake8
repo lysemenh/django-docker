@@ -1,9 +1,9 @@
 
 [flake8]
-ignore = E501
-exclude =
+ignore=E501
+exclude=
   ./app/migrations,
   ./app/__pycache__,
   ./app/manage.py,
   ./app/settings.py   
-max-line-length = 120
+max-line-length=120
