@@ -1,5 +1,6 @@
 
 [flake8]
+ignore = E501
 exclude =
   ./app/migrations,
   ./app/__pycache__,
